@@ -17,6 +17,7 @@
   "dependencies": {
     "canvas-constructor": "^4.1.0",
     "express": "^4.18.1",
+    "imgbb-uploader": "^1.5.0",
     "node-base64-image": "^2.0.4",
     "skia-canvas": "^1.0.0"
   },
