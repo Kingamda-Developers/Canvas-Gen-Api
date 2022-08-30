@@ -1,1 +1,76 @@
-var _0x23df=["\x63\x61\x6E\x76\x61\x73","\x69\x6D\x67\x62\x62\x2D\x75\x70\x6C\x6F\x61\x64\x65\x72","\x66\x73","\x65\x78\x70\x72\x65\x73\x73","\x70\x61\x74\x68","\x50\x4F\x52\x54","\x65\x6E\x76","\x2F\x61","\x6E\x61\x6D\x65","\x71\x75\x65\x72\x79","\x69\x6D\x61\x67\x65","\x71\x75\x65\x72\x79\x20\x6D\x69\x73\x73\x69\x6E\x67","\x6A\x73\x6F\x6E","\x2E\x2F\x73\x72\x63\x2F\x66\x6F\x6E\x74\x2F\x45\x76\x6F\x67\x72\x69\x61\x2E\x6F\x74\x66","\x45\x76\x6F\x67\x72\x69\x61","\x32\x64","\x67\x65\x74\x43\x6F\x6E\x74\x65\x78\x74","\x72\x6F\x74\x61\x74\x65","\x64\x72\x61\x77\x49\x6D\x61\x67\x65","\x74\x68\x65\x6E","\x2E\x2F\x73\x72\x63\x2F\x69\x6D\x61\x67\x65\x2F\x4B\x69\x6E\x67\x20\x41\x6D\x64\x61\x2D\x4D\x44\x20\x57\x65\x6C\x63\x6F\x6D\x65\x20\x43\x61\x6E\x76\x61\x73\x2E\x6A\x70\x67","\x66\x6F\x6E\x74","\x32\x32\x2E\x35\x70\x78\x20\x45\x76\x6F\x67\x72\x69\x61","\x66\x69\x6C\x6C\x53\x74\x79\x6C\x65","\x23\x66\x66\x66","\x66\x69\x6C\x6C\x54\x65\x78\x74","\x63\x72\x65\x61\x74\x65\x50\x4E\x47\x53\x74\x72\x65\x61\x6D","\x2F\x6B\x69\x6E\x67\x61\x6D\x64\x61\x2E\x70\x6E\x67","\x63\x72\x65\x61\x74\x65\x57\x72\x69\x74\x65\x53\x74\x72\x65\x61\x6D","\x70\x69\x70\x65","\x6F\x6E","\x36\x64\x32\x64\x30\x37\x37\x63\x30\x38\x36\x32\x62\x35\x35\x38\x30\x38\x38\x37\x39\x64\x61\x31\x32\x36\x33\x63\x39\x62\x33\x62","\x2E\x2F\x6B\x69\x6E\x67\x61\x6D\x64\x61\x2E\x70\x6E\x67","\x65\x72\x72\x6F\x72","\x63\x61\x74\x63\x68","\x3C\x2E\x2F\x4B\x69\x6E\x67\x20\x41\x6D\x64\x61\x20\x44\x65\x76\x65\x6C\x6F\x70\x65\x72\x73\x2E\x3E","\x50\x61\x73\x69\x6E\x64\x75\x20\x53\x61\x6D\x61\x72\x61\x73\x69\x6E\x67\x68\x61","\x69\x64","\x74\x69\x74\x6C\x65","\x75\x72\x6C","\x65\x78\x70\x69\x72\x61\x74\x69\x6F\x6E","\x20\x73\x65\x63\x6F\x6E\x64\x73","\x67\x65\x74","\x6C\x69\x73\x74\x65\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6C\x6F\x63\x61\x6C\x68\x6F\x73\x74\x3A","","\x6C\x6F\x67"];const {registerFont,createCanvas,loadImage}=require(_0x23df[0]);const imgbbUploader=require(_0x23df[1]);const fs=require(_0x23df[2]);const express=require(_0x23df[3]);const {dirname}=require(_0x23df[4]);const PORT=process[_0x23df[6]][_0x23df[5]]|| 3000;const app=express();app[_0x23df[42]](_0x23df[7],async (_0x8934x6,_0x8934x7)=>{var _0x8934x8=_0x8934x6[_0x23df[9]][_0x23df[8]],_0x8934x9=_0x8934x6[_0x23df[9]][_0x23df[10]];if(!_0x8934x8||  !_0x8934x9){return _0x8934x7[_0x23df[12]]({error:_0x23df[11]})};registerFont(_0x23df[13],{family:_0x23df[14]});const _0x8934xa=createCanvas(500,282);const _0x8934xb=_0x8934xa[_0x23df[16]](_0x23df[15]);async function _0x8934xc(){ await loadImage(_0x23df[20])[_0x23df[19]]((_0x8934xd)=>{_0x8934xb[_0x23df[17]](0.0);_0x8934xb[_0x23df[18]](_0x8934xd,0,0,500,282)}); await loadImage(_0x8934x9)[_0x23df[19]]((_0x8934xd)=>{_0x8934xb[_0x23df[21]]= _0x23df[22];_0x8934xb[_0x23df[23]]= _0x23df[24];_0x8934xb[_0x23df[25]](_0x8934x8,58,155);_0x8934xb[_0x23df[17]](0.33);_0x8934xb[_0x23df[18]](_0x8934xd,350,-68,146,146);const _0x8934xe=_0x8934xa[_0x23df[26]]();_0x8934xe[_0x23df[29]](fs[_0x23df[28]](__dirname+ _0x23df[27]));fs[_0x23df[28]](__dirname+ _0x23df[27])[_0x23df[30]]})}_0x8934xc();const _0x8934xf={apiKey:_0x23df[31],imagePath:_0x23df[32],name:_0x8934x8,expiration:60};setTimeout(function(){imgbbUploader(_0x8934xf)[_0x23df[19]]((_0x8934x11)=>{return _0x8934x7[_0x23df[12]]({result:{Developed_By:_0x23df[35],author:_0x23df[36],img_data:{id:_0x8934x11[_0x23df[37]],title:_0x8934x11[_0x23df[38]],url:_0x8934x11[_0x23df[39]],img_expiration:_0x8934xf[_0x23df[40]]+ _0x23df[41]}}})})[_0x23df[34]]((_0x8934x10)=>{return console[_0x23df[33]](_0x8934x10)})},2000)});app[_0x23df[43]](PORT);console[_0x23df[46]](`${_0x23df[44]}${PORT}${_0x23df[45]}`)
+const { registerFont, createCanvas,loadImage  } = require('canvas')
+const imgbbUploader = require("imgbb-uploader");
+const fs = require('fs')
+
+const express = require('express');
+const {
+    dirname
+} = require('path');
+const PORT = process.env.PORT ||3000
+
+const app = express()
+
+app.get('/a', async (req, res) => {
+    var text = req.query.name,
+        pp = req.query.image
+
+    if (!text || !pp) return res.json({error:'query missing'})
+
+    registerFont('./src/font/Evogria.otf', {
+        family: 'Evogria'
+    })
+    const canvas = createCanvas(500, 282)
+    const ctx = canvas.getContext('2d')
+
+    async function myDisplay() {
+        await loadImage('./src/image/King Amda-MD Welcome Canvas.jpg').then((image) => {
+            ctx.rotate(0.0)
+            ctx.drawImage(image, 0, 0, 500, 282)
+
+        })
+
+        await loadImage(pp).then((image) => {
+            ctx.font = '22.5px Evogria'
+            ctx.fillStyle = '#fff'
+            ctx.fillText(text, 58, 155)
+            ctx.rotate(0.33)
+            ctx.drawImage(image, 350, -68, 146, 146)
+
+            const stream = canvas.createPNGStream()
+            stream.pipe(fs.createWriteStream(__dirname + '/kingamda.png'))
+            fs.createWriteStream(__dirname + '/kingamda.png').on
+          
+        })
+    }
+    myDisplay()
+
+    const options = {
+     apiKey: "6d2d077c0862b55808879da1263c9b3b", // MANDATORY 
+     imagePath: "./kingamda.png",
+     name: text,   
+     expiration: 60 ,
+     // base64string: canvas.toDataURL()
+   };
+   setTimeout(function() { 
+        imgbbUploader(options)
+            .then((response) => res.json(
+                {result:{
+                    Developed_By:'<./King Amda Developers.>',
+                    author:'Pasindu Samarasingha',
+                    img_data:{
+                            id: response.id,
+                            title: response.title,
+                            url: response.url,
+                            img_expiration: options.expiration +' seconds'
+                    }
+                }
+            }
+            ))
+            .catch((error) => console.error(error));
+        
+    }, 1000);
+
+})
+
+app.listen(PORT)
+console.log(`https://localhost:${PORT}`); 
